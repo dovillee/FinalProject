@@ -126,5 +126,5 @@ public class ShopPageTest extends BaseTest {
         assertEquals("Search Results for: curtains brown", shopPage.getPageTitle(), "Page title is not the same!");
     }
 
-
+// test
 }
