@@ -26,9 +26,11 @@ The project uses the following major dependencies:
 git clone https://github.com/dovillee/FinalProject.git
 
 2. Navigate to the project directory:
+   
 cd HomeStore
 
-3. Install the project dependencies using Maven:
+4. Install the project dependencies using Maven:
+
 mvn clean install
 
 4.Running Tests
@@ -44,6 +46,7 @@ The test results and reports will be available in the target directory.
 
 ## Project Structure
 The project follows a standard Maven directory structure:
+
 |-- src
     |-- main
     |   |-- java             # Contains application code (if any)
@@ -51,6 +54,7 @@ The project follows a standard Maven directory structure:
         |-- java             # Contains test classes
         |-- resources        # Contains test configuration files
 |-- pom.xml                  # Maven configuration file
+
 The test classes are organized using the Page Object Model (POM) design pattern, which promotes reusable and maintainable test code.
 
 
