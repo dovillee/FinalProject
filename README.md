@@ -1,4 +1,4 @@
-# Final Selenium Java Project
+# HomeStore Project
 
 [![Selenium](https://img.shields.io/badge/Selenium-3.141.59-green.svg)](https://www.selenium.dev/)
 [![WebDriverManager](https://img.shields.io/badge/WebDriverManager-5.0.3-green.svg)](https://github.com/bonigarcia/webdrivermanager)
